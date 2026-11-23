@@ -10,12 +10,12 @@
             },
             "ssh": "Disabled",
             "previewLimit": 50,
-            "server": "dpg-dbtc81c9v7es73a6v6b0-a.ohio-postgres.render.com",
+            "server": "dpg-dbvcj2ou01pc73dfkb00-a.oregon-postgres.render.com",
             "port": 5432,
             "driver": "PostgreSQL",
             "name": "Render PostgreSQL",
-            "database": "enterprise_ai_nz4f",
-            "username": "enterprise_user"
+            "database": "enterprise_postgres_5wpc",
+            "username": "enterprise_postgres_5wpc_user"
         }
     ]
 }
